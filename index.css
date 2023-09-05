@@ -1,0 +1,8 @@
+.color {
+	height: 1000px;
+	width: 30%;
+}
+.inline {
+	display: flex;
+	justify-content: space-between;
+}
